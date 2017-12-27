@@ -1,0 +1,7 @@
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Exam\C# OPP Advanced, Hell-Skeleton\Hell-Skeleton\Hell\bin\Debug\Hell.exe.config
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Exam\C# OPP Advanced, Hell-Skeleton\Hell-Skeleton\Hell\bin\Debug\Hell.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Exam\C# OPP Advanced, Hell-Skeleton\Hell-Skeleton\Hell\bin\Debug\Hell.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Exam\C# OPP Advanced, Hell-Skeleton\Hell-Skeleton\Hell\obj\Debug\Hell.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Exam\C# OPP Advanced, Hell-Skeleton\Hell-Skeleton\Hell\obj\Debug\Hell.exe
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Exam\C# OPP Advanced, Hell-Skeleton\Hell-Skeleton\Hell\obj\Debug\Hell.pdb
+C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Exam\C# OPP Advanced, Hell-Skeleton\Hell-Skeleton\Hell\obj\Debug\Hell.csprojResolveAssemblyReference.cache
