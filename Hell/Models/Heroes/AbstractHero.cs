@@ -81,16 +81,27 @@ public abstract class AbstractHero : IHero, IComparable<AbstractHero>
         }
     }
 
+    /// <summary>
+    /// Added item to heroes inventories
+    /// </summary>
     public void AddItem(IItem item)
     {
         this.inventory.AddCommonItem(item);
     }
 
+    /// <summary>
+    /// Add special item to heroes inventories
+    /// </summary>
+    /// <param name="recipe"></param>
     public void AddRecipe(IRecipe recipe)
     {
         this.inventory.AddRecipeItem(recipe);
     }
 
+    /// <summary>
+    /// Compared heroes
+    /// </summary>
+    /// <param name="other"></param>
     public int CompareTo(AbstractHero other)
     {
         if (ReferenceEquals(this, other))
@@ -108,6 +119,10 @@ public abstract class AbstractHero : IHero, IComparable<AbstractHero>
         return primary != 0 ? primary : this.SecondaryStats.CompareTo(other.SecondaryStats);
     }
 
+    /// <summary>
+    /// Formated Output
+    /// </summary>
+    /// <returns></returns>
     public override string ToString()
     {
         var sb = new StringBuilder();
