@@ -2,6 +2,6 @@
                                                    
 ====================================
 
-My Hell-Project is .NET framework console application 
+My Hell-Project is an application for a .NET framework console where you can make characters, commands, simple and special items.
                                
-                                    
+                                   
