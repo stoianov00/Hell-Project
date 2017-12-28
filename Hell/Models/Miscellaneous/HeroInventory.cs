@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-//Dont' change anything !
 public class HeroInventory : IInventory
 {
     [Item]
@@ -73,6 +72,10 @@ public class HeroInventory : IInventory
         }
     }
 
+    /// <summary>
+    /// Combined simple items to make special items
+    /// </summary>
+    /// <param name="recipe"></param>
     private void CombineRecipe(IRecipe recipe)
     {
         for (int i = 0; i < recipe.RequiredItems.Count; i++)
