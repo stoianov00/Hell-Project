@@ -9,3 +9,14 @@ C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Exam\C# OPP Advanced, Hell-
 C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Exam\C# OPP Advanced, Hell-Skeleton\Hell-Skeleton\Hell.Tests\obj\Debug\HeroInventory.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Exam\C# OPP Advanced, Hell-Skeleton\Hell-Skeleton\Hell.Tests\obj\Debug\Hell.Tests.dll
 C:\Users\Ss\Documents\Visual Studio 2017\Projects\C# Exam\C# OPP Advanced, Hell-Skeleton\Hell-Skeleton\Hell.Tests\obj\Debug\Hell.Tests.pdb
+C:\Users\Ss\Desktop\Temp\Hell-Project\Hell.Tests\obj\Debug\HeroInventory.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ss\Desktop\Temp\Hell-Project\Hell.Tests\obj\Debug\HeroInventory.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ss\Desktop\Temp\Hell-Project\Hell.Tests\obj\Debug\Hell.Tests.dll
+C:\Users\Ss\Desktop\Temp\Hell-Project\Hell.Tests\obj\Debug\Hell.Tests.pdb
+C:\Users\Ss\Desktop\Temp\Hell-Project\Hell.Tests\bin\Debug\Hell.Tests.dll
+C:\Users\Ss\Desktop\Temp\Hell-Project\Hell.Tests\bin\Debug\Hell.Tests.pdb
+C:\Users\Ss\Desktop\Temp\Hell-Project\Hell.Tests\bin\Debug\Hell.exe
+C:\Users\Ss\Desktop\Temp\Hell-Project\Hell.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Ss\Desktop\Temp\Hell-Project\Hell.Tests\bin\Debug\Hell.pdb
+C:\Users\Ss\Desktop\Temp\Hell-Project\Hell.Tests\bin\Debug\Hell.exe.config
+C:\Users\Ss\Desktop\Temp\Hell-Project\Hell.Tests\bin\Debug\nunit.framework.xml

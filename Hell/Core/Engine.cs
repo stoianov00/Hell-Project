@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
+/// <summary>
+/// This class run in Main method
+/// </summary>
 public class Engine
 {
     private readonly InputReader reader;
@@ -16,6 +19,9 @@ public class Engine
         this.heroManager = heroManager;
     }
 
+    /// <summary>
+    /// Run Program
+    /// </summary>
     public void Run()
     {
         bool isRunning = true;
