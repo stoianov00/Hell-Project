@@ -118,16 +118,5 @@ public class HeroManager : IManager
 
         return this.heroes[heroName].ToString();
     }
-
-    private string CreateGame()
-    {
-        var result = new StringBuilder();
-
-        foreach (var hero in this.heroes)
-        {
-            result.AppendLine(hero.Key);
-        }
-
-        return result.ToString();
-    }
+    
 }
