@@ -13,6 +13,10 @@ public class HeroManager : IManager
         this.heroes = new Dictionary<string, IHero>();
     }
 
+    /// <summary>
+    /// Added heroes to dictionary 
+    /// </summary>
+    /// <param name="arguments"></param>
     public string AddHero(IList<string> arguments)
     {
         string result = null;
@@ -37,6 +41,10 @@ public class HeroManager : IManager
         return result;
     }
 
+    /// <summary>
+    /// Added collection with items in heroes inventory 
+    /// </summary>
+    /// <param name="arguments"></param>
     public string AddItem(IList<string> arguments)
     {
         string itemName = arguments[0];
@@ -56,6 +64,10 @@ public class HeroManager : IManager
         return result;
     }
 
+    /// <summary>
+    /// Formated the Output
+    /// </summary>
+    /// <param name="argsList"></param>
     public string Quit(object argsList)
     {
         var sb = new StringBuilder();
@@ -91,6 +103,11 @@ public class HeroManager : IManager
         return sb.ToString().Trim();
     }
 
+    /// <summary>
+    /// Added collection with special items in heroes
+    /// </summary>
+    /// <param name="arguments"></param>
+    /// <returns></returns>
     public string AddRecipe(IList<string> arguments)
     {
         string itemName = arguments[0];
@@ -118,5 +135,5 @@ public class HeroManager : IManager
 
         return this.heroes[heroName].ToString();
     }
-    
+
 }
